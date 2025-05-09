@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file alias="robo-mono-bold-font">ui/Assets/Fonts/RobotoMono-Bold.ttf</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="angle-icon.svg">ui/Assets/Images/angle-icon.svg</file>
+        <file alias="exercise-mode-icon.svg">ui/Assets/Images/exercise-mode-icon.svg</file>
+        <file alias="free-mode-icon.svg">ui/Assets/Images/free-mode-icon.svg</file>
+        <file alias="play-icon.svg">ui/Assets/Images/play-icon.svg</file>
+        <file alias="purple-arrow.svg">ui/Assets/Images/purple-arrow.svg</file>
+        <file alias="training-mode-icon.svg">ui/Assets/Images/training-mode-icon.svg</file>
+        <file alias="stop-icon.svg">ui/Assets/Images/stop-icon.svg</file>
+    </qresource>
+</RCC>
